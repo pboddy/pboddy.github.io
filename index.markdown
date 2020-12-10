@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# "Peter Boddy PhD"
 
 Researcher in Cognitive Neuroscience of Language.
 Interested in data analysis.
