@@ -1,8 +1,5 @@
 ---
 layout: home
-title: homepage
-permalink: /homepage/
-
 ---
 
 Researcher in Cognitive Neuroscience of Language.
