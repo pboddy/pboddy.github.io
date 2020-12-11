@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 Researcher in Cognitive Neuroscience of Language.
