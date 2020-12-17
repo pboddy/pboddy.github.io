@@ -4,4 +4,4 @@ title: curriculum vitae
 permalink: /CV/
 ---
 
-In progress
+* Academic Curriculum Vitae [pdf](./Peter_Boddy_CV_Dec_2020.pdf)
