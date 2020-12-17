@@ -4,4 +4,4 @@ title: home
 # permalink: /home/
 ---
 
-[Peter Boddy](./PeterBoddy.jpg)
+[Peter Boddy](./PeterBoddy.jpeg)
