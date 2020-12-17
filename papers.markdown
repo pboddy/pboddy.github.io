@@ -9,9 +9,9 @@ permalink: /papers/
 
 * Davis, C. P., Joergensen, G. H., **Boddy, P.**, Dowling, C., & Yee, E. (2020). *Making It Harder to “See” Meaning: The More You See Something, the More Its Conceptual Representation Is Susceptible to Visual Interference.* Psychological Science, 31(5), 505–517. [pdf](./MovDisorders.pdf)
 
-# Preprints
+% # Preprints
 
-# In preparation
+% # In preparation
 
 # PhD Thesis
 * Concepts in Context [pdf](./PeterBoddy_PhDThesis_2020.pdf)
