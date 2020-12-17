@@ -8,7 +8,7 @@ title: home
 
 # Peter Boddy PhD.
 
-I am a researcher in the cognitive neuroscience and psychology of language.
+I am a researcher in the cognitive neuroscience and psychology of language and memory.
 
 My most recent research post was as a Senior Research Associate at the University of East Anglia (UEA) in Norwich (UK) where I worked on spatial perspective taking and spatial language.
 
